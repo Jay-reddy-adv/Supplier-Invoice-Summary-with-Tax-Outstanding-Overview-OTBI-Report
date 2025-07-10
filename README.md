@@ -39,7 +39,7 @@ Business Unit Name
 
 ---> Amber for partially paid
 
-# 🔀 Views Used
+**🔀 Views Used**
 
 **View Selector Enabled:**
 
