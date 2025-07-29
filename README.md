@@ -5,55 +5,55 @@ This OTBI report is built to provide an interactive analysis of supplier invoice
 
 **📊 Subject Area**
 
-Payables Invoices – Transactions Real Time
+🔹 Payables Invoices – Transactions Real Time
 
 **📋 Columns Included**
 
 Business Unit Name
 
----> Supplier
+🔹 Supplier
 
----> Invoice Number	
+🔹 Invoice Number	
 
----> Invoice Date	
+🔹 Invoice Date	
 
----> Invoice Amount	
+🔹 Invoice Amount	
 
----> Invoice Amount Paid	
+🔹 Invoice Amount Paid	
 
----> Invoice Currency	
+🔹 Invoice Currency	
 
----> Payment Status Name	
+🔹 Payment Status Name	
 
 **🧠 Calculated Fields**
 
----> Tax (0.08%): Custom formula to represent an assumed tax on invoice.
+🔹  Tax (0.08%): Custom formula to represent an assumed tax on invoice.
 
----> Outstanding Amount: Final amount remaining after tax and payment, calculated via a complex expression.
+🔹 Outstanding Amount: Final amount remaining after tax and payment, calculated via a complex expression.
 
 **🎨 Graph View & Conditional Formatting**
 
----> Red for values > certain threshold (e.g., unpaid or large outstanding)
+🔹 Red for values > certain threshold (e.g., unpaid or large outstanding)
 
----> Green for fully paid
+🔹  Green for fully paid
 
----> Amber for partially paid
+🔹  Amber for partially paid
 
 **🔀 Views Used**
 
 **View Selector Enabled:**
 
----> Tabular View: Full data for analysis and export
+🔹 Tabular View: Full data for analysis and export
 
----> Graph View: Visualization of total, tax, paid and outstanding amounts
+🔹 Graph View: Visualization of total, tax, paid and outstanding amounts
 
 **🔐 Access & Security**
 
----> Accounts Payable Analysts
+✔️ Accounts Payable Analysts
 
----> Finance Managers
+✔️  Finance Managers
 
----> Procurement Operations Team
+✔️ Procurement Operations Team
 
 # 📸 SNAPSHOTS OF REPORT 
 
